@@ -35,7 +35,7 @@
                   <div class="col-sm-12 no-pad">
                         <h4>Certificaciones</h4>
 <p>Diseño, producción, venta y soporte técnico de productos para seguridad física tales como cajas fuertes, cofres, puertas y complementos de seguridad electrónica.</p>
-                            <img src="<?php echo get_template_directory_uri(); ?>/img/4.png" alt="iso_9001" width="100%" height="100%"/>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/4.png" alt="4" width="100%" height="100%"/>
 
 
 
