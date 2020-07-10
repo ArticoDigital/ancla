@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-6">
                     <h3 style="margin-bottom: 38px">Métodos de pago</h3>
-                    <img style="max-width: 100%" src="<?php echo get_template_directory_uri(); ?>/img/4.png" alt="">
+                    <img style="max-width: 100%" src="<?php echo get_template_directory_uri(); ?>/img/pagos.png" alt="">
                 </div>
             </div>
             <div class="container" style="margin-top: 30px;">
