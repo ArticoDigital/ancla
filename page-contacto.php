@@ -130,7 +130,7 @@ while ( have_posts() ) : the_post(); ?>
 </svg>
 
                 <b> Información
-                  general:</b> <a href="mailto:">info@ancla.la</a></li>
+                  general:</b> <a href="mailto:info@ancla.la">info@ancla.la</a></li>
               <li>
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                      width="30px" height="20px" viewBox="0 0 30 20" enable-background="new 0 0 30 20" xml:space="preserve">
