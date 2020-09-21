@@ -90,7 +90,7 @@ while ( have_posts() ) : the_post(); ?>
 </svg>
 
                 <b> Horario: </b>Lunes a viernes
-                8:00 a.m. a 6:00 pm. Sábados 8:00 a.m. a 12:00 m.
+                8:00 a.m. a 6:00 pm. 
               </li>
               <h3>Escríbanos</h3>
 
@@ -178,7 +178,7 @@ while ( have_posts() ) : the_post(); ?>
                   </g>
 </svg>
                 <b> Información
-                  ventas:</b> <a href="mailto:"><a href="mailto:ventas@cajasfuertesancla.com.co">ventas@cajasfuertesancla.com.co</a>
+                  ventas:</b> <a href="mailto:"><a href="mailto:info@ancla.la">info@ancla.la</a>
               </li>
               <li>
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -216,7 +216,7 @@ while ( have_posts() ) : the_post(); ?>
 </svg>
 
                 <b> Servicios:</b> <a
-                  href="mailto:servicios@cajasfuertesancla.com.co ">servicios@cajasfuertesancla.com.co</a></li>
+                  href="mailto:info@ancla.la ">info@ancla.la</a></li>
               <li>
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                      width="30px" height="20px" viewBox="0 0 30 20" enable-background="new 0 0 30 20" xml:space="preserve">
@@ -266,7 +266,7 @@ while ( have_posts() ) : the_post(); ?>
 </svg>
                 <b> Atención al
                   cliente:</b> <a
-                  href="mailto:servicios@cajasfuertesancla.com.co ">servicios@cajasfuertesancla.com.co</a>
+                  href="mailto:info@ancla.la ">info@ancla.la</a>
               </li>
               <li>
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -298,7 +298,7 @@ while ( have_posts() ) : the_post(); ?>
                   </g>
 </svg>
                 <b>Mercadeo: </b> <a
-                  href="mailto:gerenciamercadeo@cajasfuertesancla.com.co">gerenciamercadeo@cajasfuertesancla.com.co</a>
+                  href="mailto:info@ancla.la">info@ancla.la</a>
               </li>
 
             </ul>
