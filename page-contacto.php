@@ -178,7 +178,7 @@ while ( have_posts() ) : the_post(); ?>
                   </g>
 </svg>
                 <b> Información
-                  ventas:</b> <a href="mailto:"><a href="mailto:info@ancla.la">info@ancla.la</a>
+                  ventas:</b> <a href="mailto:info@ancla.la"><a href="mailto:info@ancla.la">info@ancla.la</a>
               </li>
               <li>
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
