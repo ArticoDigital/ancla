@@ -64,7 +64,7 @@ while ( have_posts() ) : the_post(); ?>
 </g>
 </svg>
 
-                <b> Dirección: </b>Carrera 68h # 73A - 29
+                <b> Dirección: </b>Carrera 68h # 73A - 
                 
               </li>
               <li>
